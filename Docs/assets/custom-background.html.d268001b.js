@@ -1,1 +1,0 @@
-const t={key:"v-0631d1a0",path:"/view/features/custom-background.html",title:"\u81EA\u5B9A\u4E49\u80CC\u666F\u56FE\u7247",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646751513e3,contributors:[{name:"\u306D\u306D\u3060\u3093",email:"admin@dawnfz.com",commits:1}]},filePathRelative:"view/features/custom-background.md"};export{t as data};
