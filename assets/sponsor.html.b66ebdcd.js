@@ -1,0 +1,1 @@
+const e={key:"v-21ec3750",path:"/view/sponsor.html",title:"\u8D5E\u52A9\u6211\u4EEC",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646751513e3,contributors:[{name:"\u306D\u306D\u3060\u3093",email:"admin@dawnfz.com",commits:1}]},filePathRelative:"view/sponsor.md"};export{e as data};
