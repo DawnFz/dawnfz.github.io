@@ -13,7 +13,6 @@ export default({
   lang: 'zh-CN',
   title: '原神启动器Plus',
   description: 'Genshin.Launcher.Plus',
-  base : '/Docs/',
   themeConfig: {
     logo: 'https://s2.loli.net/2022/03/08/mUB73fHR86VhDJs.png',
     navbar: [
