@@ -1,0 +1,1 @@
+const e={key:"v-41b6050a",path:"/view/issues/path-issues.html",title:"\u8DEF\u5F84\u95EE\u9898",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646751513e3,contributors:[{name:"\u306D\u306D\u3060\u3093",email:"admin@dawnfz.com",commits:1}]},filePathRelative:"view/issues/path-issues.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-a1afddf8",path:"/view/features/account-switch.html",title:"\u5FEB\u901F\u5207\u6362\u53CA\u4FDD\u5B58\u8D26\u53F7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646751513e3,contributors:[{name:"\u306D\u306D\u3060\u3093",email:"admin@dawnfz.com",commits:1}]},filePathRelative:"view/features/account-switch.md"};export{t as data};
