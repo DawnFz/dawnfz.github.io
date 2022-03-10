@@ -1,1 +1,0 @@
-const e={key:"v-70ea169a",path:"/view/issues/pkg-issues.html",title:"Pkg\u8F6C\u6362\u5305\u95EE\u9898",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"view/issues/pkg-issues.md"};export{e as data};

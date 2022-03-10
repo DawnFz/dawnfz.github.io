@@ -17,6 +17,7 @@
 |简体中文|[DawnFz](https://github.com/DawnFz)|
 |繁体中文|[DawnFz](https://github.com/DawnFz)|
 |日本語 - 制作中|彩琳|
+|English|圆的信徒 (QQ:3356491582)|
 
 ## 下载 原神启动器Plus
 

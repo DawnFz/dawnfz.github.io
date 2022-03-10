@@ -10,5 +10,11 @@
         "LangVersion": "1.0.0.2",
         "LangName": "繁体中文",
         "LangFileName": "Lang_TW.json"
+    },
+    {
+        "LangID":"2",
+        "LangVersion": "1.0.0.2",
+        "LangName": "English",
+        "LangFileName": "Lang_EN.json"
     }
 ]

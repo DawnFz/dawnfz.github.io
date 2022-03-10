@@ -1,1 +1,0 @@
-const e={key:"v-b581ddec",path:"/view/issues/switch-issues.html",title:"\u6E38\u620F\u8F6C\u6362\u95EE\u9898",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"view/issues/switch-issues.md"};export{e as data};
