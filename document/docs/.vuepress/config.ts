@@ -29,6 +29,10 @@ export default({
         text: '赞助项目',
         link: '/view/sponsor.md'
       },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/DawnFz/Genshin.Launcher.Plus'
+      },
     ],
     sidebar: [
       {
