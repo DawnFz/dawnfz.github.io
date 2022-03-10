@@ -1,5 +1,5 @@
 {
-	"LangVersion":"1.0.0.2",
+	"LangVersion":"1.0.0.3",
     "Languages":"簡體中文",
     "SaveBtn":"保存",
     "Error":"錯誤",
@@ -7,7 +7,7 @@
     "Cancel":"取消",
     "TipsStr":"提醒",
     "LanguageSetTitle":"語言設置",
-    "AboutStr":"注意，啟動器涉及到註冊表修改和文件替換，部分殺毒軟\r\n件可能會報毒，為了客戶端數據完整建議關閉殺軟後再運行\r\n本程序完全開源，並不會將用戶數據公佈到網絡，\r\n本啟動器需要聯網部分的代碼僅為版本檢測和公告獲取\r\n\r\n\r\n編寫：DawnFz (ねねだん)\r\n聯繫郵箱：admin@dawnfz.com\r\n技術支持：Lightczx（Github）【Snap.Genshin作者】\r\n您可以跳轉到Github以獲取本項目源代碼\r\n\r\n\r\n————————本程序用到的代碼及參考————————\r\n[Snap.Genshin]\r\n項目地址：https://github.com/DGP-Studio/Snap.Genshin \r\n————————————————————————————\r\n[genshin-fps-unlock]\r\n項目地址：https://gitee.com/Euphony_Facetious/genshin-fps-unlock \r\n",
+    "AboutStr":"注意，啟動器涉及到註冊表修改和文件替換，部分殺毒軟\r\n件可能會報毒，為了客戶端數據完整建議關閉殺軟後再運行\r\n本程序完全開源，並不會將用戶數據公佈到網絡，\r\n本啟動器需要聯網部分的代碼僅為版本檢測和公告獲取\r\n\r\n\r\n編寫：DawnFz (ねねだん)\r\n聯繫郵箱：admin@dawnfz.com\r\n技術支持：Lightczx（Github）【Snap.Genshin作者】\r\n您可以跳轉到Github以獲取本項目源代碼\r\n\r\n\r\n————————本程序用到的代碼及參考————————\r\n[Snap.Genshin]\r\n項目地址：https://github.com/DGP-Studio/Snap.Genshin \r\n————————————————————————————\r\n",
     "MainTitle":"原神啟動器Plus Dev ",
     "ScreenPathErr":"本功能為打開遊戲內截圖照相保存目錄\r\n沒有檢測到照相文件或者請先輸入正確的遊戲路徑！",
     "AboutTitle":"關於",
@@ -92,8 +92,5 @@
     "PathHintLabel":"遊戲目錄本體指Genshin Impact下的Genshin Impact Game目錄",
     "FinalTipLabel":"輸入或者點擊右側[···]按鈕選擇如上圖所示的遊戲目錄",
     "GuideFinishBtn":"完成嚮導",
-
-
-
-    "MainBackground":"https://s2.loli.net/2022/02/19/3u7RdercnVTh2B9.jpg",
+    "MainBackground":"https://s2.loli.net/2022/02/19/3u7RdercnVTh2B9.jpg"
 }

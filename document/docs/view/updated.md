@@ -85,3 +85,7 @@
 5. 移除了原有的UnlockFps.exe，进而采用[[DGP.Genshin.FPSUnlocking]](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking)的方式进行解锁
 5. 修改了启动游戏的逻辑代码，现在您应该不会出现游戏启动过于缓慢的现象了
 5. 移除了原有的帮助页面，现在点击[ ? ]按钮您可以直接跳转到[原启Plus帮助](https://www.dawnfz.com/document/)文档页面了
+
+## 1.3.5.5
+
+1. 修复了服务器指向缓慢或请求错误导致无法运行本程序
