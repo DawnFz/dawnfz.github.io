@@ -1,8 +1,8 @@
 {
-    "Version":"1.3.4.0",
-    "Title":"版本更新-1.3.4",
-    "Content":"1.修复上版本的残留Debug代码，现在您不会看见多余的账户了\r\n2.修改了程序获取语言包逻辑和服务器指向，您应该不会再看见语言包获取错误了\r\n3.调整了设置界面、现在您在更换语言后应该不会发生UI重叠等问题了\r\n4.调整了更新内容获取的方式，当您的程序语言设置为中文时，服务器的指向将为国内的Coding仓库\r\n5.调整了程序内一些地址的指向，旧版本的一些链接可能将在几天内被弃用\r\n6.本次更新为Coding源，如果卡住下载进度请联系开发者或加群自取\r\n\r\n------------------------------------------------------\r\n\r\n注意事项：本版本采用了实验性功能[多语言支持]",
-    "DownloadUrl":"https://nenedan.coding.net/p/glp/d/GenShin_Launcher_Plus/git/raw/1.3.4/Genshin-LauncherDIY/UpdateFile/GenShinLauncher.png",
+    "Version":"1.3.5.0",
+    "Title":"版本更新-1.3.5",
+    "Content":"1.修复上版本的残留Debug代码，现在您不会看见多余的账户了\r\n2.修改了程序获取语言包逻辑和服务器指向，您应该不会再看见语言包获取错误了\r\n3.调整了设置界面、现在您在更换语言后应该不会发生UI重叠等问题了\r\n4.调整了更新获取方式，当您的程序语言设置为中文时，服务器指向国内的Coding仓库\r\n5.调整了程序内一些地址的指向，旧版本的一些链接可能将在几天内被弃用\r\n6.本次更新为Coding源，如果卡住下载进度请联系开发者或加群自取\r\n\r\n------------------------------------------------------\r\n\r\n注意事项：本版本采用了实验性功能[多语言支持]",
+    "DownloadUrl":"https://nenedan.coding.net/p/glp/d/Genshin.Launcher.Plus/git/raw/1.3.5/UpdateFile/GenShinLauncher.png",
     "PkgVersion":"2.5.0-2",
     "PkgDownloadUrl":"null",
 }
