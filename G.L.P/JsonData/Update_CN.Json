@@ -1,8 +1,8 @@
 {
-    "Version":"1.3.5.5",
-    "Title":"版本更新-1.3.5.5",
-    "Content":"1.修复了服务器指向缓慢或者请求错误导致无法启动\r\n2.本次更新为Coding源，如果卡住下载进度请联系开发者或加群自取\r\n\r\n------------------------------------------------------\r\n\r\n注意事项：本版本采用了实验性功能[多语言支持]",
-    "DownloadUrl":"https://nenedan.coding.net/p/glp/d/Genshin.Launcher.Plus/git/raw/1.3.5.5/UpdateFile/GenShinLauncher.png",
+    "Version":"1.3.6.0",
+    "Title":"版本更新-1.3.6",
+    "Content":"1.该版本因严重性Bug已被弃用，请立即更新\r\n2.本次更新为Coding源，如果卡住下载进度请联系开发者或加群自取\r\n\r\n------------------------------------------------------\r\n\r\n注意事项：本版本采用了实验性功能[多语言支持]",
+    "DownloadUrl":"https://nenedan.coding.net/p/glp/d/Genshin.Launcher.Plus/git/raw/1.3.6/UpdateFile/GenShinLauncher.png",
     "PkgVersion":"2.5.0-2",
     "PkgDownloadUrl":"null"
 }
