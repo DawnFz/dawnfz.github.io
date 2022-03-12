@@ -1,8 +1,8 @@
 {
-    "Version":"1.3.6.0",
-    "Title":"Version Update-1.3.6-[Google Translate]",
+    "Version":"1.3.7.0",
+    "Title":"Version Update-1.3.7-[Google Translate]",
     "Content":"1.Fixed server pointing to slow causing it to not work\r\n2.This time it is updated to the Coding source, if the Please contact the developer or join the group to pick up the download progress.\r\n\r\n--------------------------------------------------------------------\r\n\r\nNote: This version uses an experimental feature [Multilingual Support]",
-    "DownloadUrl":"https://github.com/DawnFz/Genshin.Launcher.Plus/releases/download/1.3.6/Genshin.Launcher.Plus.1.3.5.5.exe",
+    "DownloadUrl":"https://github.com/DawnFz/Genshin.Launcher.Plus/releases/download/1.3.7/Genshin.Launcher.Plus.exe",
     "PkgVersion":"2.5.0-2",
     "PkgDownloadUrl":"null"
 }

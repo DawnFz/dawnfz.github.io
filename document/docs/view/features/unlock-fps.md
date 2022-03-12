@@ -15,3 +15,35 @@
     - 请确保开启本功能后您没有退出此程序
   - 其他问题
     - 请联系开发者或加群咨询
+
+
+
+- 解锁FPS的实现方式：
+
+  - [DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking)
+
+  - ### Simple Usage
+
+    flexible way
+    ```c#
+    //create a genshin impact process
+    Process p = new(){...};
+    //pass the process and target fps to unlocker
+    Unlocker unlocker = new(p,144);
+    //start the process
+    p.Start();
+    //immediately call the UnlockAsync method
+    //this method will not return until an error occurred or the process has exited
+    var result = await unlocker.UnlockAsync();
+    ```
+
+    Or straightforward way
+    ```c#
+    //create a genshin impact process
+    Process p = new(){...};
+    //pass the process and target fps to unlocker
+    Unlocker unlocker = new(p,144);
+    //start the process and immediately call the UnlockAsync method
+    //this method will also not return until an error occurred or the process has exited
+    var result = await unlocker.StartProcessAndUnlockAsync();
+    ```
