@@ -30,6 +30,10 @@ export default({
         link: '/view/sponsor.md'
       },
       {
+        text: '更新内容',
+        link: '/view/updated.md'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/DawnFz/Genshin.Launcher.Plus'
       },
