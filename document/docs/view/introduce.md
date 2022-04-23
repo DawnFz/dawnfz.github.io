@@ -5,7 +5,7 @@
 > 支持手动设置任意分辨率启动，也可选择预设的常用分辨率
 > 支持选择窗口模式或者无边框窗口/无边框全屏模式启动游戏
 
-![附加功能](https://s2.loli.net/2022/03/08/SWaguxmvAOHtIqD.jpg)
+![Setting_1.jpg](https://s2.loli.net/2022/04/23/YHa6TfUy78cQbOV.jpg)
 
 
 
@@ -25,7 +25,7 @@
 
 - 账号保存界面
 
-![保存账号](https://s2.loli.net/2022/03/08/MnySwm7i2T6kvIE.jpg)
+![User.jpg](https://s2.loli.net/2022/04/23/YEUJtdofyHICsGx.jpg)
 
 - 设置页面内的账号列表
 
@@ -57,7 +57,7 @@
 
 - 设置内切换游戏客户端对应的服务器
 
-![快速切换服务器](https://s2.loli.net/2022/03/08/sRqCxbAa4fEyYrJ.jpg)
+![SwitchClient.jpg](https://s2.loli.net/2022/04/23/LiukysNmb1v4FHl.jpg)
 
 - 主页面快速切换服务器
 
@@ -65,5 +65,5 @@
 
 - 国际服/国内服双端转换功能
 
-![游戏端转换](https://s2.loli.net/2022/03/08/ZitGCVAkJI8g46S.jpg)
+![ClientConvert.jpg](https://s2.loli.net/2022/04/23/DiSUBfzmCvVR1YG.jpg)
 
