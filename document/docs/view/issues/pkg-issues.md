@@ -2,7 +2,7 @@
 
 # Pkg转换包问题
 
-> Pkg下载连接：转换页面Pkg下载按钮 | 备用：[百度网盘](https://pan.baidu.com/s/1-5zQoVfE7ImdXrn8OInKqg) 密码：etxd | 群文件
+> Pkg下载连接：转换页面Pkg下载按钮 | [网盘](https://cloud.06dn.com/s/xeabIk)  | 群文件
 
 - Pkg转换资源文件大概多久更新一次？
   - 不出意外的话一般是每次原神大版本更新后1天内会进行更新

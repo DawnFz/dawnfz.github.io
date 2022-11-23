@@ -21,12 +21,12 @@
 ## 下载 原神启动器Plus
 
 - 你可以在 Genshin Launcher Plus 的 GitHub 仓库的 [发布页面](https://github.com/DawnFz/Genshin.Launcher.Plus/releases) 下载最新版原启Plus
-  - 无法访问Github的用户亦可以通过 [阿里云盘](https://www.aliyundrive.com/s/5fAP4oRCZBs) 分流下载
-  - 你也可以从[原启Plus交流群](https://jq.qq.com/?_wv=1027&k=hHtDKShK)下载到所有和 **原神启动器Plus** 的相关文件
+  - 无法访问Github的用户亦可以通过网盘下载 [软件本体](https://cloud.06dn.com/s/8yZ5Ib)和[转换所需的PKG文件](https://cloud.06dn.com/s/xeabIk)<Badge text="推荐" type="tip" />
+  - 你也可以从[原启Plus交流群](https://jq.qq.com/?_wv=1027&k=JXvpjEyR)下载到所有和 **原神启动器Plus** 的相关文件
 
 ## 使用前特别注意
 
-- 本软件为绿色免安装程序，您可以直接打开exe文件（或是解压下载好的压缩包）进行使用
+- 本软件为绿色免安装程序，您可以直接打开exe文件（或是解压**下载好的压缩包**）进行使用
 
 - 如果您发现打不开本程序：一般分为进程在任务管理器表现为闪现一下后消失或有进程停留
 

@@ -10,17 +10,17 @@
   - 会导致客户端损坏吗
     - 不会，此功能不会修改您计算机的任何文件
   - 为什么我解锁之后跑不到所设置的帧率
-    - 请确保您使用了管理员身份运行此程序
+    - 请确保您使用了**管理员身份**运行此程序
     - 请确保游戏内设置中【垂直同步】选项关闭
     - 请确保开启本功能后您没有退出此程序
   - 其他问题
-    - 请联系开发者或加群咨询
+    - 请[联系开发者](https://github.com/DawnFz/Genshin.Launcher.Plus/issues/new)或[加群](https://jq.qq.com/?_wv=1027&k=JXvpjEyR)咨询
 
 
 
 - 解锁FPS的实现方式：
 
-  - [DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking)
+  - [DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/Unlocker)
 
   - ### Simple Usage
 
