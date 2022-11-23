@@ -5,7 +5,7 @@
 |要求|规格|
 |-|-|
 |系统版本|Windows 7 SP1 及以上（64位操作系统）|
-|运行时|.NET **Desktop** Runtime 6.0.3 **(64位)**|
+|运行时|[.NET **Desktop** Runtime 6.0.4 **(64位)**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer)|
 
 
 ## 多语言支持
